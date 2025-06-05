@@ -21,7 +21,7 @@ const AboutPage = () => {
           >
             <div className="bg-white rounded-lg shadow-md overflow-hidden sticky top-28">
               <img 
-                src="./public/profile.jpg" 
+                src="/public/profile.jpg" 
                 alt="Profile" 
                 className="w-full h-50 object-cover object-center" 
               />
